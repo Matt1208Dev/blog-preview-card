@@ -93,6 +93,16 @@ img {
   margin-top: 0.875rem; /* 12px */
 }
 
+.card__title a {
+  text-decoration: none;
+  color: var(--gray-950);
+  transition: color 0.2s;
+}
+
+.card__title a:hover {
+  color: var(--yellow);
+}
+
 .card__description {
   margin-top: 0.875rem; /* 12px */
   color: var(--gray-500);
