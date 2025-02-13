@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Matt1208Dev/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://matt1208dev.github.io/blog-preview-card/)
+- Solution URL: [https://github.com/Matt1208Dev/blog-preview-card](https://github.com/Matt1208Dev/blog-preview-card)
+- Live Site URL: [https://matt1208dev.github.io/blog-preview-card/](https://matt1208dev.github.io/blog-preview-card/)
 
 ### Built with
 
